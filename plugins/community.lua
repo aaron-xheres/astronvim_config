@@ -34,6 +34,6 @@ return {
 
   -- Langauge Support
   { import = "astrocommunity.pack.tailwindcss"},
-  { import = "astrocommunity.pack.typescript-deno"}
+  { import = "astrocommunity.pack.typescript-all-in-one"}
 
 }
